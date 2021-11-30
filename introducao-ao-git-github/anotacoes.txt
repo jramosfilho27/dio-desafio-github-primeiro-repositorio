@@ -1,1 +1,4 @@
-- Faremos anotações sobre o Desafio sobre o GiT/GitHub do BootCamp da Cognizant
+- Faremos anotações do Desafio de aprender sobre Git/GitHub do BootCamp da Cognizant.
+- Neste desafio foi criado o repositório "dio-repositoio-bootcamp-cognizant" que contemplará anotações,
+  documentação, código fontes e outros recursos que precisem ser armazenados e versionados ao longo do BootCamp da Cognizant.
+- Poderão ser criados repositórios específicos para projetos específicos, se necessários, ao longo deste bootcamp.
